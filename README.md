@@ -121,4 +121,4 @@ Welcome to my C Programming Portfolio! This repository showcases my journey and 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/C-Programming-Portfolio.git
+   git clone https://github.com/norkysgc/C-Programming-Portfolio.git
