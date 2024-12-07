@@ -5,31 +5,8 @@ Welcome to my C Programming Portfolio! This repository showcases my journey and 
 
 ## Repository Structure
 
-- **Libraries**
-  - **MathLibrary**: Contains functions for basic mathematical operations.
-    - `mathlib.h`
-    - `mathlib.c`
-    - `libmathlib.a`
-    - `test_mathlib.c`
-    - `Makefile`
-  - **StringLibrary**: Contains functions for string manipulations.
-    - `stringlib.h`
-    - `stringlib.c`
-    - `libstringlib.a`
-    - `test_stringlib.c`
-    - `Makefile`
-  - **FileLibrary**: Contains functions for file handling operations.
-    - `filelib.h`
-    - `filelib.c`
-    - `libfilelib.a`
-    - `test_filelib.c`
-    - `Makefile`
-  - **NetworkLibrary**: Contains functions for basic network operations.
-    - `networklib.h`
-    - `networklib.c`
-    - `libnetworklib.a`
-    - `test_networklib.c`
-    - `Makefile`
+- **Library**
+  - custom. It will change as I find more functions to add.
 - **Basic-Syntax-and-Structure**: Exercises to understand the basic structure and syntax of C programs.
   - `Exercise1.c`
   - `Exercise2.c`
