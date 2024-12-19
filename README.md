@@ -1,9 +1,9 @@
 
 # C Programming Portfolio
 
-Welcome to my C Programming Portfolio! This repository showcases my journey and proficiency in C programming through various exercises, projects, and custom libraries. Each directory contains exercises and projects related to specific topics, ranging from basic concepts to advanced topics.
+Welcome to my C Programming Portfolio! This repository showcases my journey and proficiency in C programming through various exercises, projects, and custom libraries I´ll be uploading here. Each directory contains exercises and projects related to specific topics, ranging from basic concepts to advanced topics.
 
-## Repository Structure
+## Repository Structure (General Idea)
 
 - **Library**
   - custom. It will change as I find more functions to add.
@@ -28,8 +28,8 @@ Welcome to my C Programming Portfolio! This repository showcases my journey and 
   - `Exercise2.c`
   - `Exercise3.c`
 - **Arrays**: Exercises on one-dimensional and multi-dimensional arrays.
-  - `Exercise1.c`
-  - `Exercise2.c`
+  - `islandPerimeter.c`
+  - `reshapeMatrix.c`
   - `Exercise3.c`
 - **Pointers**: Exercises to understand and use pointers effectively.
   - `Exercise1.c`
